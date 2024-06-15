@@ -18,6 +18,7 @@ a:hover {
     cursor: pointer;
 }
 
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -811,6 +812,7 @@ h4 {
 
 .ltc-atomic-tangerine {
     color: #F3976C !important;
+    text-decoration: underline;
 }
 
 .ltc-atomic-tangerine:hover {
